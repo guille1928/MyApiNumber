@@ -1,0 +1,4 @@
+com\example\api\repository\NumberEntryRepository.class
+com\example\api\MyApiNumberApplication.class
+com\example\api\controller\NumberEntryController.class
+com\example\api\model\NumberEntry.class
