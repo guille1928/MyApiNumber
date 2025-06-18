@@ -1,13 +1,15 @@
 package com.example.demo;
 
+
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MyApiNumberApplicationTests {
+public class MyApiNumberApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+        // Aquí puedes agregar tus pruebas.
+    }
 
 }
